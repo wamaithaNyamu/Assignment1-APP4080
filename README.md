@@ -29,7 +29,7 @@
 
 1. Wamaitha Nyamu
 2. Muni Akedi
-3. 
+3. Kabeer Khan
 
 
 
