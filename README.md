@@ -65,13 +65,13 @@ This project does not require you to install anything.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/wamaithanyamu/Building-a-telegram-bot-using-azure-cognitive-services.svg?style=for-the-badge
-[contributors-url]: https://github.com/wamaithanyamu/Building-a-telegram-bot-using-azure-cognitive-services/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/wamaithanyamu/Building-a-telegram-bot-using-azure-cognitive-services.svg?style=for-the-badge
-[forks-url]: https://github.com/wamaithanyamu/Building-a-telegram-bot-using-azure-cognitive-services/network/members
-[stars-shield]: https://img.shields.io/github/stars/wamaithanyamu/Building-a-telegram-bot-using-azure-cognitive-services.svg?style=for-the-badge
-[stars-url]: https://github.com/wamaithanyamu/Building-a-telegram-bot-using-azure-cognitive-services/stargazers
-[issues-shield]: https://img.shields.io/github/issues/wamaithanyamu/Building-a-telegram-bot-using-azure-cognitive-services.svg?style=for-the-badge
-[issues-url]: https://github.com/wamaithanyamu/Building-a-telegram-bot-using-azure-cognitive-services/issues
-[license-shield]: https://img.shields.io/github/license/wamaithanyamu/Building-a-telegram-bot-using-azure-cognitive-services.svg?style=for-the-badge
-[license-url]: https://github.com/wamaithanyamu/Building-a-telegram-bot-using-azure-cognitive-services/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/wamaithanyamu/Assignment1-APP4080 .svg?style=for-the-badge
+[contributors-url]: https://github.com/wamaithanyamu/Assignment1-APP4080 /graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/wamaithanyamu/Assignment1-APP4080 .svg?style=for-the-badge
+[forks-url]: https://github.com/wamaithanyamu/Assignment1-APP4080 /network/members
+[stars-shield]: https://img.shields.io/github/stars/wamaithanyamu/Assignment1-APP4080 .svg?style=for-the-badge
+[stars-url]: https://github.com/wamaithanyamu/Assignment1-APP4080 /stargazers
+[issues-shield]: https://img.shields.io/github/issues/wamaithanyamu/Assignment1-APP4080 .svg?style=for-the-badge
+[issues-url]: https://github.com/wamaithanyamu/Assignment1-APP4080 /issues
+[license-shield]: https://img.shields.io/github/license/wamaithanyamu/Assignment1-APP4080 .svg?style=for-the-badge
+[license-url]: https://github.com/wamaithanyamu/Assignment1-APP4080 /blob/master/LICENSE.txt
