@@ -28,7 +28,7 @@
 ## Team members
 
 1. Wamaitha Nyamu
-2. 
+2. Muni Akedi
 3. 
 
 
